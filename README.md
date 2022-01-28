@@ -24,3 +24,11 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=936318087018459188&pe
 Dev server: https://discord.gg/6KTbD3yQnx
 Support server: https://discord.gg/f8xVZuh282
 ```
+
+```
+ ___                  _ _           ___                  _ 
+/ __| ___ __ _  _ _ _(_) |_ _  _   / __|_  _ __ _ _ _ __| |
+\__ \/ -_) _| || | '_| |  _| || | | (_ | || / _` | '_/ _` |
+|___/\___\__|\_,_|_| |_|\__|\_, |  \___|\_,_\__,_|_| \__,_|
+                            |__/                           
+```
