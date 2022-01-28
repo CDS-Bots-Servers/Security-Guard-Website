@@ -1,8 +1,22 @@
 # Security Guard
 
-All commands:
+All commands: <br> 
 sg!help : Shows the help menu
-
-Automated actions:
+<br> 
+Automated actions: <br> 
 Reply to phishing links with : ⚠THIS IS A PHISHING LINK⚠
+<br> 
 
+Our ad: <br> 
+
+**Security Guard**
+Do you find people are getting hacked in your server, or just want to protect your server from phishing links? <br>
+Well Security Guard is the bot for you! <br>
+Invite: https://discord.com/api/oauth2/authorize?client_id=936318087018459188&permissions=8&scope=bot
+
+```
+**Security Guard**
+Do you find people are getting hacked in your server, or just want to protect your server from phishing links?
+Well Security Guard is the bot for you!
+Invite: https://discord.com/api/oauth2/authorize?client_id=936318087018459188&permissions=8&scope=bot
+```
