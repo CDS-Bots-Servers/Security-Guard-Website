@@ -10,7 +10,9 @@ Help pages <br>
 **---**
 <br>
 **Page 3:** sg!help p3<br>
+
 <hr>
+
 All commands: <br>
 **sg!help** : Shows help page 1
 <br>
