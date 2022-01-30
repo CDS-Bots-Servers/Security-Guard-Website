@@ -36,7 +36,9 @@ All commands: <br>
 <br>
 **Alias** : sg!tgg
 <br>
-**---**\n**sg!voidbots.net** : Get the voidbots.net page 
+**---**
+<br>
+**sg!voidbots.net** : Get the voidbots.net page 
 <br>
 **Alias** : sg!vb
 <br>
@@ -75,6 +77,8 @@ All commands: <br>
 **sg!ytsearch [query]** : Get a youtube search link
 <br>
 **Alias** : sg!yts [query]
+<br>
+**---**
 <br>
 **sg!ohno** : Sends the oh no emoji
 <br>
