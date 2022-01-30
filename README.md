@@ -126,6 +126,9 @@ All commands: <br>
 <br>
 **Alias** : sg!nf [number]
 <br> 
+
+<hr>
+
 Automated actions: <br> 
 Reply to phishing links with a message
 <br> 
