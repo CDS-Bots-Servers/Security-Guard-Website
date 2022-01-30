@@ -120,7 +120,9 @@ All commands: <br>
 <br>
 **Alias** : sg!r2 [number]
 <br>
-**---**\n**sg!numberformat [number]** : Format a number (100,000)
+**---**
+<br>
+**sg!numberformat [number]** : Format a number (100,000)
 <br>
 **Alias** : sg!nf [number]
 <br> 
